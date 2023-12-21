@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Gayathri&family=Roboto+Condensed:wght@300&display=swap');
+p{
+    color:#E56399;
+}
+body{
+    background-color: #AFD5AA;
+    font-family:gayathri;
+    color:#493548;
+    font-size:20px;
+}
+img{
+    width: 300px;
+    height:300px;
+    border: solid black 5px;
+    margin: 25px;
+    position: absolute;
+    border-radius:5px;
+}
+li{
+    color:#493548;
+}
+table{
+    background-color:#8DA1B9;
+}
+.div2{
+    position:absolute;
+    margin:5px;
+}
+.navtxt {
+	color: #CBD4C2 !important;
+}
+.navr {
+	background-color: #550527 !important;
+}

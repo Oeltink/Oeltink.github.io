@@ -1,0 +1,30 @@
+p {
+	color: #DA2C38;
+}
+
+body {
+	background-color: #545E75;
+}
+
+.navr {
+	background-color: #550527 !important;
+}
+
+.popout {
+	background-color: #BD8B9C !important;
+	color: #99F7Ab;
+}
+
+.navtxt {
+	color: #CBD4C2 !important;
+}
+
+.other {
+	color: #99F7AB !important;
+}
+
+.cardiv {
+	border-radius: 10px;
+	border: black solid 5px;
+	background-color: #99F7AB;
+}
